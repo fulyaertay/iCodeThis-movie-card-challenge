@@ -1,0 +1,81 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f4f6f9;
+}
+
+.main {
+    width: 800px;
+    height: 600px;
+    padding: 50px;
+    background-color: white;
+    position: relative;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.title {
+    font-weight: bold;
+    color: #2d3135;
+}
+
+.title2 {
+    color:#0d6efd;
+    
+}
+
+.jrRate {
+    color: rgb(0, 0, 255);
+    font-weight: bold;
+}
+
+.topRate {
+    color: #dcdddd;
+}
+
+.img {
+    margin-bottom: 20px;
+    max-width: 191px;
+    height: 350px;
+    margin-left: -21px;
+}
+
+.price {
+    font-weight: bold;
+    color: #353535;
+}
+
+.buy {
+    width: 65px;
+    border-radius: 20px;
+    justify-content: center;
+    padding: 2px;
+    border-color: #2d3135;
+    color: #3d3e41;
+    font-weight: bolder;
+    left: 100px;
+    background-color: #fff;
+    font-size: 12px;
+}
+
+.aboutMovie {
+    font-weight: bold;
+    color: #2d3135;
+    margin-bottom: 18px;
+}
+
+.btn {
+    background-color: #1f2229;
+    border: none;
+    color: white;
+    right: 0;
+    font-size: 16px;
+    cursor: pointer;
+    width: 200px;
+    border-radius: 20px;
+}
